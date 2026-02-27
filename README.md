@@ -6,7 +6,8 @@ Konzola disponuje vlastným grafickým používateľským rozhraním (menu) a š
 * **Zobrazenie kódu:** OLED displej s rozlíšením 128x64 px (I2C komunikácia).
 * **Ovládanie:** 2 analógové joysticky pre plynulé hranie.
 * **Zvuk:** Pasívny bzučiak pre retro zvukové efekty.
-* **Napájanie:** 3.7 V batéria s vypínačom a modulom TP4056 pre mobilitu.
+* **Napájanie:** 3.7 V batéria s vypínačom a nabíjacím modulom TP4056 s USB-C pre mobilitu.
+* **Obal konzoly:** Vyrobený tak aby umožnil vloženie komponentov na breadboard a bezproblémové ovládanie konzoly pomocou joystikov.
 ## Hry
 * **Pong:** Klasická stolná hra pre dvoch hráčov.
 * **Breakout:** Rozbíjanie tehličiek loptičkou.
