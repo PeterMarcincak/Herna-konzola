@@ -1,4 +1,5 @@
 # Herná konzola
+![Fotka hernej konzoly](Photos_amd_videos/Zapojenie_v_obale.jpg)
 Cieľom bolo vytvoriť kompaktné zariadenie, ktoré spája retro herný zážitok s modernou elektronikou. 
 Konzola disponuje vlastným grafickým používateľským rozhraním (menu) a štyrmi hrateľnými hrami.
 ## Technické špecifikácie
