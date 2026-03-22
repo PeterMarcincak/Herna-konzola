@@ -750,12 +750,4 @@ void checkWinner() {
   bool isDraw = true; for (int i = 0; i < 9; i++) if (board[i] == 0) isDraw = false;
   if (isDraw) winner = 3;
 }
-int checkboard(int x) { return board[x]; }void setup() {
-  // put your setup code here, to run once:
-
-}
-
-void loop() {
-  // put your main code here, to run repeatedly:
-
-}
+int checkboard(int x) { return board[x]; }
