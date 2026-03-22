@@ -5,16 +5,16 @@
  * OLED displeja SH1106. Projekt využíva hybridné použitie grafických knižníc 
  * (Adafruit GFX & U8g2) pre optimalizáciu vykresľovania rôznych typov hier.
  * @notes Hardware: ESP32 Dev Module, OLED SH1106 (I2C), Joystick, Buzzer
- * @author [Peter Marcinčák] - SOČ
+ * @author [Peter Marcinčák]
  */
 
 /*
  * @brief Poznámka k vývoju kódu
  * @notes V procese programovania kódu pre pôvodný prototyp fungujúci na 
- * Arduino UNO R3 sme zistili, že ak píšeme podobné príkazy do riadku
+ * Arduino UNO R3 som zistil, že ak píšeme podobné príkazy do riadku
  * za sebou a nie každý príkaz do samostatného riadku, výsledná veľkosť
  * kódu je vždy o niekoľko % menšia. Ani to však nestačilo na to, aby
- * sa kód zmestil na Arduino UNO R3, preto sme sa rozhodli prejsť na
+ * sa kód zmestil na Arduino UNO R3, preto som sa rozhodol prejsť na
  * vývojovú dosku ESP32, ktorá umožnovala ponechať kód len s minimálnymi
  * zmenami.
  */
