@@ -1,5 +1,5 @@
 /*
- * @file Kod_konzoly.ino
+ * @file RetroGameConsole.ino
  * @brief Systém viacerých hier pre ESP32 (Pong, Breakout, MazeRunner, TicTacToe)
  * @details Tento projekt implementuje 4 klasické hry na platforme ESP32 s využitím 
  * OLED displeja SH1106. Projekt využíva hybridné použitie grafických knižníc 
